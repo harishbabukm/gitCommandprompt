@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 444D-93A6
+
+ Directory of C:\Users\user\Desktop\Git
+
+08-01-2019  09:59    <DIR>          .
+08-01-2019  09:59    <DIR>          ..
+08-01-2019  09:59                 0 one.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  12,029,399,040 bytes free
